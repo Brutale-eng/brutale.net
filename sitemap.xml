@@ -1,92 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-  xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
-  <url>
-    <loc>https://www.brutale.net/arquitectura-rendimiento-escalabilidad/</loc>
-  </url>
-  
-  <url>
-    <loc>https://www.brutale.net/asesoramiento-y-acompanamiento-tecnologico/</loc>
-  </url>
-  
-  <url>
-    <loc>https://www.brutale.net/auditoria-y-analisis-360/</loc>
-  </url>
-  
-  <url>
-    <loc>https://www.brutale.net/terms-of-use/</loc>
-  </url>
-  
-  <url>
-    <loc>https://www.brutale.net/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.brutale.net/contratacion-de-perfiles-tecnicos-altos/</loc>
-  </url>
-  
-  <url>
-    <loc>https://www.brutale.net/categories/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.brutale.net/contact/</loc>
-  </url>
-  
-  <url>
-    <loc>https://www.brutale.net/desarrollo-backend-y-frontend/</loc>
-  </url>
-  
-  <url>
-    <loc>https://www.brutale.net/devops-y-sistemas/</loc>
-  </url>
-  
-  <url>
-    <loc>https://www.brutale.net/due-diligence/</loc>
-  </url>
-  
-  <url>
-    <loc>https://www.brutale.net/engagement-reviews/</loc>
-  </url>
-  
-  <url>
-    <loc>https://www.brutale.net/direccion-tecnica-externa-cto-interino/</loc>
-  </url>
-  
-  <url>
-    <loc>https://www.brutale.net/formacion/</loc>
-  </url>
-  
-  <url>
-    <loc>https://www.brutale.net/microservicios/</loc>
-  </url>
-  
-  <url>
-    <loc>https://www.brutale.net/migraciones-cloud/</loc>
-  </url>
-  
-  <url>
-    <loc>https://www.brutale.net/cookies/</loc>
-  </url>
-  
-  <url>
-    <loc>https://www.brutale.net/privacy/</loc>
-  </url>
-  
-  <url>
-    <loc>https://www.brutale.net/ciberseguridad/</loc>
-  </url>
-  
-  <url>
-    <loc>https://www.brutale.net/sobre-nosotros/</loc>
-  </url>
-  
-  <url>
-    <loc>https://www.brutale.net/tags/</loc>
-    <priority>0</priority>
-  </url>
-  
-</urlset>
+<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+	
+	<sitemap>
+	   	<loc>https://www.brutale.net/en/sitemap.xml</loc>
+		
+	</sitemap>
+	
+	<sitemap>
+	   	<loc>https://www.brutale.net/es/sitemap.xml</loc>
+		
+	</sitemap>
+	
+</sitemapindex>
