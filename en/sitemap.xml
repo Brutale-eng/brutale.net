@@ -3,6 +3,20 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://www.brutale.net/en/technical-audits/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://www.brutale.net/es/auditoria-y-analisis-360/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.brutale.net/en/technical-audits/"
+                />
+  </url>
+  
+  <url>
     <loc>https://www.brutale.net/en/about-us/</loc>
     <xhtml:link
                 rel="alternate"
@@ -13,20 +27,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://www.brutale.net/en/about-us/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://www.brutale.net/en/architecture-performance-scalability/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://www.brutale.net/es/arquitectura-rendimiento-escalabilidad/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://www.brutale.net/en/architecture-performance-scalability/"
                 />
   </url>
   
@@ -45,16 +45,16 @@
   </url>
   
   <url>
-    <loc>https://www.brutale.net/en/technical-audits/</loc>
+    <loc>https://www.brutale.net/en/architecture-performance-scalability/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://www.brutale.net/es/auditoria-y-analisis-360/"
+                href="https://www.brutale.net/es/arquitectura-rendimiento-escalabilidad/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://www.brutale.net/en/technical-audits/"
+                href="https://www.brutale.net/en/architecture-performance-scalability/"
                 />
   </url>
   

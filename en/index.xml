@@ -11,6 +11,17 @@
     
     
     <item>
+      <title>360º Technical Audits</title>
+      <link>https://www.brutale.net/en/technical-audits/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.brutale.net/en/technical-audits/</guid>
+      <description>And after that?
+
+From here, an agreed plan of action is established and agreed with the CTO, CEO, or responsible figure (s). The progress is periodically reviewed and monitored continuously.</description>
+    </item>
+    
+    <item>
       <title>About Brutale</title>
       <link>https://www.brutale.net/en/about-us/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -20,32 +31,21 @@
     </item>
     
     <item>
+      <title>Advice and technical co-pilot</title>
+      <link>https://www.brutale.net/en/technical-advice/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.brutale.net/en/technical-advice/</guid>
+      <description>1) Understand your business   During the  Discovery  phase we do several sessions with different people from the project in order to:   Understand business objectives.   Gather all the necessary information to be able to advise.   Identify real problems and technological challenges.   Evaluate the technological platform and processes.   Understand the technical level of the team, organizational limitations, frictions, or any impediment to productivity.</description>
+    </item>
+    
+    <item>
       <title>Architecture, performance and scalabilty</title>
       <link>https://www.brutale.net/en/architecture-performance-scalability/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://www.brutale.net/en/architecture-performance-scalability/</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title>Asesoramiento y acompañamiento tecnológico</title>
-      <link>https://www.brutale.net/en/technical-advice/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.brutale.net/en/technical-advice/</guid>
-      <description>1) Understand your business   During the  Discovery  phase we do several sessions with different people from the project in order to:   Understand business objectives.   Gather all the necessary information to be able to advise.   Identify real problems and technological challenges.   Evaluate the technological platform and processes.   Understand the technical level of the team, organizational limitations, frictions or any impediment to productivity.</description>
-    </item>
-    
-    <item>
-      <title>Auditoría y análisis 360</title>
-      <link>https://www.brutale.net/en/technical-audits/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.brutale.net/en/technical-audits/</guid>
-      <description>And after that?
-
-From here, an agreed plan of action will be established with which, together with the CTO, CEO or responsible figure (s), progress will be monitored.</description>
     </item>
     
     <item>
@@ -114,8 +114,8 @@ Vulnerability analysis A continuous service to check and follow-up vulnerabiliti
       <guid>https://www.brutale.net/en/engagement-reviews/</guid>
       <description>The **engagement review** is especially relevant when your company is intending to:
 
-- Find out the root cause of under-performance and slow time to market.
-- Make impacting organizational changes in the tech department, such as hiring a new CTO, VP Engineering, Heads, internal promotions or other substantial changes.
+- Find out the root cause of under-performance and slow Time to Market.
+- Make impacting organizational changes in the tech department, such as hiring a new CTO, VP Engineering, Heads, internal promotions, or other substantial changes.
 - Technical perfection vs. Time to Market continuously confronted.
 - Make the right technology stack choice.
 - Change the strategy of the product or introduce new lines of product.</description>
@@ -149,7 +149,7 @@ Vulnerability analysis A continuous service to check and follow-up vulnerabiliti
     </item>
     
     <item>
-      <title>Microservices</title>
+      <title>Migration to microservices</title>
       <link>https://www.brutale.net/en/microservices/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
