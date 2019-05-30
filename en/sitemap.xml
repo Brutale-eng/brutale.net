@@ -3,6 +3,90 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://www.brutale.net/en/about-us/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://www.brutale.net/es/sobre-nosotros/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.brutale.net/en/about-us/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://www.brutale.net/en/architecture-performance-scalability/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://www.brutale.net/es/arquitectura-rendimiento-escalabilidad/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.brutale.net/en/architecture-performance-scalability/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://www.brutale.net/en/technical-advice/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://www.brutale.net/es/asesoramiento-y-acompanamiento-tecnologico/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.brutale.net/en/technical-advice/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://www.brutale.net/en/technical-audits/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://www.brutale.net/es/auditoria-y-analisis-360/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.brutale.net/en/technical-audits/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://www.brutale.net/en/terms-of-use/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://www.brutale.net/es/terms-of-use/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.brutale.net/en/terms-of-use/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://www.brutale.net/en/development-backend-and-frontend/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://www.brutale.net/es/desarrollo-backend-y-frontend/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.brutale.net/en/development-backend-and-frontend/"
+                />
+  </url>
+  
+  <url>
     <loc>https://www.brutale.net/en/</loc>
     <priority>0</priority>
     <xhtml:link
@@ -33,6 +117,160 @@
   </url>
   
   <url>
+    <loc>https://www.brutale.net/en/contact/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://www.brutale.net/es/contact/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.brutale.net/en/contact/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://www.brutale.net/en/cookies/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://www.brutale.net/es/cookies/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.brutale.net/en/cookies/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://www.brutale.net/en/cybersecurity/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://www.brutale.net/es/ciberseguridad/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.brutale.net/en/cybersecurity/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://www.brutale.net/en/devops-sysadmins/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://www.brutale.net/es/devops-y-sistemas/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.brutale.net/en/devops-sysadmins/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://www.brutale.net/en/engagement-reviews/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://www.brutale.net/es/engagement-reviews/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.brutale.net/en/engagement-reviews/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://www.brutale.net/en/formacion/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://www.brutale.net/es/training/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.brutale.net/en/formacion/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://www.brutale.net/en/senior-talent-search/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://www.brutale.net/es/contratacion-de-perfiles-tecnicos-altos/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.brutale.net/en/senior-talent-search/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://www.brutale.net/en/interim-cto/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://www.brutale.net/es/direccion-tecnica-externa-cto-interino/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.brutale.net/en/interim-cto/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://www.brutale.net/en/microservices/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://www.brutale.net/es/microservicios/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.brutale.net/en/microservices/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://www.brutale.net/en/cloud-migrations/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://www.brutale.net/es/migraciones-cloud/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.brutale.net/en/cloud-migrations/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://www.brutale.net/en/privacy/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://www.brutale.net/es/privacy/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.brutale.net/en/privacy/"
+                />
+  </url>
+  
+  <url>
     <loc>https://www.brutale.net/en/tags/</loc>
     <priority>0</priority>
     <xhtml:link
@@ -44,6 +282,20 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://www.brutale.net/en/tags/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://www.brutale.net/en/due-diligence/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://www.brutale.net/es/due-diligence/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.brutale.net/en/due-diligence/"
                 />
   </url>
   
