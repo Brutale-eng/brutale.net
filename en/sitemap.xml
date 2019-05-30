@@ -187,20 +187,6 @@
   </url>
   
   <url>
-    <loc>https://www.brutale.net/en/formacion/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://www.brutale.net/es/training/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://www.brutale.net/en/formacion/"
-                />
-  </url>
-  
-  <url>
     <loc>https://www.brutale.net/en/senior-talent-search/</loc>
     <xhtml:link
                 rel="alternate"
@@ -267,6 +253,20 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://www.brutale.net/en/privacy/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://www.brutale.net/en/training/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://www.brutale.net/es/training/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://www.brutale.net/en/training/"
                 />
   </url>
   
