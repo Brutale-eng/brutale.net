@@ -60,7 +60,6 @@
   
   <url>
     <loc>https://www.brutale.net/es/</loc>
-    <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -89,7 +88,6 @@
   
   <url>
     <loc>https://www.brutale.net/es/categories/</loc>
-    <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -286,7 +284,6 @@
   
   <url>
     <loc>https://www.brutale.net/es/tags/</loc>
-    <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
