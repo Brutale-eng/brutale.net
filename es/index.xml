@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Brutale Engineering SL</title>
@@ -151,8 +151,7 @@ Evaluación preliminar La primera fase consiste en llevar a cabo una evaluación
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://www.brutale.net/es/cookies/</guid>
-      <description>Política de Cookies
-Una cookie es un pequeño fichero de texto que se almacena en su navegador cuando visita casi cualquier página web. Su utilidad es que la web sea capaz de recordar su visita cuando vuelva a navegar por esa página. Las cookies suelen almacenar información de carácter técnico, preferencias personales, personalización de contenidos, estadísticas de uso, enlaces a redes sociales, acceso a cuentas de usuario, etc. El objetivo de la cookie es adaptar el contenido de la web a su perfil y necesidades, sin cookies los servicios ofrecidos por cualquier página se verían mermados notablemente.</description>
+      <description></description>
     </item>
     
     <item>
@@ -161,7 +160,7 @@ Una cookie es un pequeño fichero de texto que se almacena en su navegador cuand
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://www.brutale.net/es/privacy/</guid>
-      <description>De acuerdo con lo dispuesto en la Ley Orgánica 15&amp;frasl;99 del 13 de diciembre de 1999 sobre Protección de Datos de Carácter Personal, www.brutale.net y su sitio web www.brutale.net la legislación vigente respecto a la protección de datos personales y de contacto de sus subscriptores y los mantiene en la más estricta confidencialidad.
+      <description>De acuerdo con lo dispuesto en la Ley Orgánica 15/99 del 13 de diciembre de 1999 sobre Protección de Datos de Carácter Personal, www.brutale.net y su sitio web www.brutale.net la legislación vigente respecto a la protección de datos personales y de contacto de sus subscriptores y los mantiene en la más estricta confidencialidad.
 En concordancia con la normativa actualmente vigente en materia de protección de datos (LOPD), así como en materia de servicios de la sociedad de la información y de comercio electrónico (LSSI-CE), el usuario acepta que los datos aportados por medio de esta página web sean incorporados a ficheros titularidad de www.</description>
     </item>
     
