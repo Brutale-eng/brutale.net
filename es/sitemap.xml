@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
   <url>
     <loc>https://www.brutale.net/es/arquitectura-rendimiento-escalabilidad/</loc>
     <xhtml:link
@@ -14,9 +13,7 @@
                 hreflang="es"
                 href="https://www.brutale.net/es/arquitectura-rendimiento-escalabilidad/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.brutale.net/es/asesoramiento-y-acompanamiento-tecnologico/</loc>
     <xhtml:link
                 rel="alternate"
@@ -28,9 +25,7 @@
                 hreflang="es"
                 href="https://www.brutale.net/es/asesoramiento-y-acompanamiento-tecnologico/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.brutale.net/es/auditoria-y-analisis-360/</loc>
     <xhtml:link
                 rel="alternate"
@@ -42,9 +37,7 @@
                 hreflang="es"
                 href="https://www.brutale.net/es/auditoria-y-analisis-360/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.brutale.net/es/terms-of-use/</loc>
     <xhtml:link
                 rel="alternate"
@@ -56,9 +49,7 @@
                 hreflang="es"
                 href="https://www.brutale.net/es/terms-of-use/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.brutale.net/es/</loc>
     <xhtml:link
                 rel="alternate"
@@ -70,9 +61,7 @@
                 hreflang="es"
                 href="https://www.brutale.net/es/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.brutale.net/es/contratacion-de-perfiles-tecnicos-altos/</loc>
     <xhtml:link
                 rel="alternate"
@@ -84,9 +73,7 @@
                 hreflang="es"
                 href="https://www.brutale.net/es/contratacion-de-perfiles-tecnicos-altos/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.brutale.net/es/categories/</loc>
     <xhtml:link
                 rel="alternate"
@@ -98,9 +85,7 @@
                 hreflang="es"
                 href="https://www.brutale.net/es/categories/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.brutale.net/es/contact/</loc>
     <xhtml:link
                 rel="alternate"
@@ -112,9 +97,7 @@
                 hreflang="es"
                 href="https://www.brutale.net/es/contact/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.brutale.net/es/desarrollo-backend-y-frontend/</loc>
     <xhtml:link
                 rel="alternate"
@@ -126,9 +109,7 @@
                 hreflang="es"
                 href="https://www.brutale.net/es/desarrollo-backend-y-frontend/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.brutale.net/es/devops-y-sistemas/</loc>
     <xhtml:link
                 rel="alternate"
@@ -140,9 +121,7 @@
                 hreflang="es"
                 href="https://www.brutale.net/es/devops-y-sistemas/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.brutale.net/es/due-diligence/</loc>
     <xhtml:link
                 rel="alternate"
@@ -154,9 +133,7 @@
                 hreflang="es"
                 href="https://www.brutale.net/es/due-diligence/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.brutale.net/es/engagement-reviews/</loc>
     <xhtml:link
                 rel="alternate"
@@ -168,9 +145,7 @@
                 hreflang="es"
                 href="https://www.brutale.net/es/engagement-reviews/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.brutale.net/es/direccion-tecnica-externa-cto-interino/</loc>
     <xhtml:link
                 rel="alternate"
@@ -182,9 +157,7 @@
                 hreflang="es"
                 href="https://www.brutale.net/es/direccion-tecnica-externa-cto-interino/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.brutale.net/es/formacion/</loc>
     <xhtml:link
                 rel="alternate"
@@ -196,9 +169,7 @@
                 hreflang="es"
                 href="https://www.brutale.net/es/formacion/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.brutale.net/es/microservicios/</loc>
     <xhtml:link
                 rel="alternate"
@@ -210,9 +181,7 @@
                 hreflang="es"
                 href="https://www.brutale.net/es/microservicios/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.brutale.net/es/migraciones-cloud/</loc>
     <xhtml:link
                 rel="alternate"
@@ -224,9 +193,7 @@
                 hreflang="es"
                 href="https://www.brutale.net/es/migraciones-cloud/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.brutale.net/es/cookies/</loc>
     <xhtml:link
                 rel="alternate"
@@ -238,9 +205,7 @@
                 hreflang="es"
                 href="https://www.brutale.net/es/cookies/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.brutale.net/es/privacy/</loc>
     <xhtml:link
                 rel="alternate"
@@ -252,9 +217,7 @@
                 hreflang="es"
                 href="https://www.brutale.net/es/privacy/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.brutale.net/es/ciberseguridad/</loc>
     <xhtml:link
                 rel="alternate"
@@ -266,9 +229,7 @@
                 hreflang="es"
                 href="https://www.brutale.net/es/ciberseguridad/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.brutale.net/es/sobre-nosotros/</loc>
     <xhtml:link
                 rel="alternate"
@@ -280,9 +241,7 @@
                 hreflang="es"
                 href="https://www.brutale.net/es/sobre-nosotros/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://www.brutale.net/es/tags/</loc>
     <xhtml:link
                 rel="alternate"
@@ -295,5 +254,4 @@
                 href="https://www.brutale.net/es/tags/"
                 />
   </url>
-  
 </urlset>

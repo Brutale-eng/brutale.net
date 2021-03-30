@@ -5,10 +5,6 @@
     <link>https://www.brutale.net/en/tags/</link>
     <description>Recent content in Tags on Brutale Engineering SL</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>es-ES</language>
-    
-	<atom:link href="https://www.brutale.net/en/tags/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <language>es-ES</language><atom:link href="https://www.brutale.net/en/tags/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

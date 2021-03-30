@@ -5,10 +5,6 @@
     <link>https://www.brutale.net/es/categories/</link>
     <description>Recent content in Categories on Brutale Engineering SL</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>es-ES</language>
-    
-	<atom:link href="https://www.brutale.net/es/categories/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <language>es-ES</language><atom:link href="https://www.brutale.net/es/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

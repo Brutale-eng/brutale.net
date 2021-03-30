@@ -5,11 +5,7 @@
     <link>https://www.brutale.net/en/</link>
     <description>Recent content on Brutale Engineering SL</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>es-ES</language>
-    
-	<atom:link href="https://www.brutale.net/en/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <language>es-ES</language><atom:link href="https://www.brutale.net/en/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>360º Technical Audits</title>
       <link>https://www.brutale.net/en/technical-audits/</link>
